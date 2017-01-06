@@ -1,0 +1,9 @@
+C:\Users\1121961\Documents\Visual Studio 2015\Projects\Side_Projects\VisualAStar\VisualAStar\bin\Debug\VisualAStar.exe.config
+C:\Users\1121961\Documents\Visual Studio 2015\Projects\Side_Projects\VisualAStar\VisualAStar\bin\Debug\VisualAStar.exe
+C:\Users\1121961\Documents\Visual Studio 2015\Projects\Side_Projects\VisualAStar\VisualAStar\bin\Debug\VisualAStar.pdb
+C:\Users\1121961\Documents\Visual Studio 2015\Projects\Side_Projects\VisualAStar\VisualAStar\obj\Debug\VisualAStar.csprojResolveAssemblyReference.cache
+C:\Users\1121961\Documents\Visual Studio 2015\Projects\Side_Projects\VisualAStar\VisualAStar\obj\Debug\VisualAStar.Window.resources
+C:\Users\1121961\Documents\Visual Studio 2015\Projects\Side_Projects\VisualAStar\VisualAStar\obj\Debug\VisualAStar.Properties.Resources.resources
+C:\Users\1121961\Documents\Visual Studio 2015\Projects\Side_Projects\VisualAStar\VisualAStar\obj\Debug\VisualAStar.csproj.GenerateResource.Cache
+C:\Users\1121961\Documents\Visual Studio 2015\Projects\Side_Projects\VisualAStar\VisualAStar\obj\Debug\VisualAStar.exe
+C:\Users\1121961\Documents\Visual Studio 2015\Projects\Side_Projects\VisualAStar\VisualAStar\obj\Debug\VisualAStar.pdb
